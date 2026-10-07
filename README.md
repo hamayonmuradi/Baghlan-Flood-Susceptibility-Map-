@@ -2,7 +2,7 @@
 
 GIS-based flood susceptibility assessment for Baghlan Province 
 
-![Baghlan Flood Susceptibility Map](Flood Susceptibility Map.jpg)
+![Baghlan Flood Susceptibility Map](Flood_Susceptibility_Map.jpg)
 
 ## Overview
 
@@ -34,7 +34,7 @@ Baghlan lies in north-eastern Afghanistan, spanning the Hindu Kush foothills and
 | Flow accumulation | Identifies concentrated flow paths | Derived from DEM |
 | Distance from rivers | Proximity to channels raises exposure | Derived from stream network |
 
-![Conditioning factors](Flood Parameters.jpg)
+![Conditioning factors](Flood_Parameters.jpg)
 
 ## Methodology
 
