@@ -23,12 +23,12 @@ Baghlan lies in north-eastern Afghanistan, spanning the Hindu Kush foothills and
 
 | Factor | Why it matters | Source |
 |---|---|---|
-| Elevation | Low ground collects runoff; range 436–5,399 m | [DEM source: NASA SRTM 30m DEM, resolution: 30m] |
+| Elevation | Low ground collects runoff; range 436–5,399 m | DEM source: NASA SRTM 30m DEM, resolution: 30m |
 | Slope | Steep slopes speed runoff; flat areas pond water | Derived from DEM |
 | Curvature | Concave areas concentrate flow | Derived from DEM |
 | Topographic Wetness Index (TWI) | Tendency of water to accumulate | Derived from DEM |
-| Land cover | Surface roughness and infiltration (rangeland, crops, built area, bare ground, etc.) | [Dataset: ESRI 10m Landcover] |
-| Lithology (reclassified) | Permeability class controls infiltration | [Geological map source: Afghan Geological Survey Department] |
+| Land cover | Surface roughness and infiltration (rangeland, crops, built area, bare ground, etc.) | Dataset: ESRI 10m Landcover |
+| Lithology (reclassified) | Permeability class controls infiltration | Geological map source: Afghan Geological Survey Department |
 | Average annual rainfall | Main driver of runoff volume | [NASA Earthdata] |
 | Drainage density | Dense networks drain faster | Derived from stream network |
 | Flow accumulation | Identifies concentrated flow paths | Derived from DEM |
