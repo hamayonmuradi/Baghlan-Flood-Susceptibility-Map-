@@ -47,7 +47,7 @@ Baghlan lies in north-eastern Afghanistan, spanning the Hindu Kush foothills and
 
 ## Validation
 
-[Add: number of flood points, validation metric and result.]
+Historical flood records are concentrated in the north-west plains (Baghlan-e-Jadid, Pul-e-Khumri), where population and infrastructure are dense. Khwaja Hejran and Khost Wa Fereng are mapped as Very High susceptibility because of their steep terrain and convergent drainage, but they are sparsely populated, so floods there are rarely recorded. The lack of recorded events in these districts therefore reflects reporting bias, not low flood likelihood. Validation is strongest in well-documented areas.
 
 ## Limitations
 
@@ -58,4 +58,4 @@ Baghlan lies in north-eastern Afghanistan, spanning the Hindu Kush foothills and
 ## Author
 
 **Hamayon Muradi** – GIS & Remote Sensing | Kabul, Afghanistan
-[LinkedIn / email]
+Email: hamayonmuradi8@gmail.com 
