@@ -34,7 +34,7 @@ Baghlan lies in north-eastern Afghanistan, spanning the Hindu Kush foothills and
 | Flow accumulation | Identifies concentrated flow paths | Derived from DEM |
 | Distance from rivers | Proximity to channels raises exposure | Derived from stream network |
 
-![Conditioning factors](Conditioning_Factors.jpg)
+![Conditioning factors](Conditioning_factors.jpg)
 
 ## Methodology
 
